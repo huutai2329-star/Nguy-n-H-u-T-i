@@ -1,0 +1,6 @@
+{
+  "name": "Fresh Drink Store",
+  "description": "Cửa hàng nước giải khát trực tuyến hiện đại với các loại trà trái cây, nước ép nguyên chất, trà sữa và sinh tố tươi mát.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
